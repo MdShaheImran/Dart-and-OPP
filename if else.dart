@@ -13,5 +13,4 @@ main (){
   print(resultThree);
   //.toDouble deya double e convert korci int k//
 
-
 }
