@@ -6,5 +6,4 @@ int tumi=26;
 
 int amra = ami + tumi;
 print(amra);
-
 }
