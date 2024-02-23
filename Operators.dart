@@ -20,4 +20,7 @@ main () {
   ++a;
   --a;
 
+  a = a +10;
+  a +=10;
+  // 1 er jaigai jdi ami for example 10 jog kori taile a +=10; deya kora lagbe - er jonno o same//
 }
