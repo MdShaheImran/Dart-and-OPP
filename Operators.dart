@@ -9,5 +9,15 @@ main () {
   print(c);
   print(d);
   print(e);
+//If I want to calculate the value first then I've to use the sign first.If I want to calculate the in the last then I've to use the sign in last.//
+
+  //a = a + 1;
+  print(a++);
+  print(a);
+  //a = a - 1;
+  print(a--);
+  print(a);
+  ++a;
+  --a;
 
 }
