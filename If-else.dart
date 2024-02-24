@@ -20,6 +20,14 @@ main (){
     print("taka manage kore tarpor Korbo In Sha Allah!");
   }
 
+  //Class Code If-Else//
+  //amar kashe jdi 100 tak thaka taile ami pizza kahbo,r jdi 100 kom thake taile ami burger khabo, 50 er o veshi thakle ami jalmuri khabo//
 
-
-}
+  int tkaca = 100;
+  if (tkaca > 100){
+    print('Pizza Khabo');
+  }else if (tkaca > 50){
+    print('Burger Khabo');
+  }
+  else print('Jalmuri Khabo');
+  }
