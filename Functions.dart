@@ -1,19 +1,19 @@
 main() {
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
-  welcomeMessage();
+  welcomeMessage("Imran");
+  welcomeMessage("Noyon");
+  welcomeMessage("Maruf");
+  welcomeMessage("Riyad");
+  welcomeMessage("Zalish");
+  welcomeMessage("Ali");
+  welcomeMessage("Billal");
+  welcomeMessage("Kamal");
+  welcomeMessage("Tanvir");
+  welcomeMessage("Rahat");
 }
   //Functrions
 
-  welcomeMessage(){
+  welcomeMessage(String name){
     //Body
     print("WelCome to my functions practice");
-    print("Hello world");
+    print("What are you doing now $name?");
   }
