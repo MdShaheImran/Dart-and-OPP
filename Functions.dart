@@ -1,4 +1,6 @@
 main() {
+
+  //function call
   welcomeMessage("Imran");
   welcomeMessage("Noyon");
   welcomeMessage("Maruf");
